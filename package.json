@@ -4,6 +4,9 @@
   "main": "index.js",
   "author": "zdy",
   "license": "MIT",
+  "scripts": {
+    "start": "node src/server.js"
+  },
   "dependencies": {
     "express": "^4.16.4",
     "hbs": "^4.0.1"
